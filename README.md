@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot](./screencapture.png?raw=true "Screenshot")
+![Screenshot](screencapture.png)
 
 ## Available Scripts
 
